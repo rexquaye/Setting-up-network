@@ -11,8 +11,8 @@ Objective: Learn how to provision and configure a Linux server from scratch in a
 
 <h2>Languages and Utilities Used</h2>
 
-- <b>PowerShell</b>  
-- <b>Diskpart</b>
+- <b>None</b> 
+
 
 <h2>Environments Used </h2>
 
